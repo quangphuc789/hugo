@@ -1,6 +1,6 @@
 +++
 title = "Enhancement of data security for JWT"
-draft = true
+draft = false
 date = "2016-12-31T05:53:03+08:00"
 
 +++
