@@ -70,12 +70,12 @@ defaultContentLanguage = "en-us"
   name = "Archives"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"
   url = "/archives"
-#[[menu.main]]
-#  weight = 4
-#  identifier = "about"
-#  name = "About Me"
-#  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
-#  url = "/#about"
+[[menu.main]]
+  weight = 4
+  identifier = "about"
+  name = "About Me"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
+  url = "/#about"
 
 [[menu.links]]
   weight = 0
@@ -163,7 +163,7 @@ defaultContentLanguage = "en-us"
   [params.header.rightLink]
     class = ""
     icon = ""
-    url = "/#about"
+    url = "/"
 
   # Customize copyright value "© 2016 <CUSTOMIZATION>. All Rights Reserved"
   # [params.footer]
