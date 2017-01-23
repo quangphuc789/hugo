@@ -2,6 +2,8 @@
 title = "Enhancement of data security for JWT"
 draft = false
 date = "2016-12-31T05:53:03+08:00"
+tags = ["security", "jwt"]
+categories = ["Software Engineering"]
 
 +++
 
