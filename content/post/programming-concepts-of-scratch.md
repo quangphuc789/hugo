@@ -3,7 +3,7 @@ title = "Programming & Education Concepts Of Scratch"
 draft = false
 date = "2017-01-08T16:58:30+08:00"
 tags = ["scratch", "education"]
-categories = ["Software Engineering, Education"]
+categories = ["Education"]
 
 +++
 
