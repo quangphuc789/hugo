@@ -3,7 +3,7 @@ title = "Hugo Command Cheat Sheet"
 date = "2016-08-23T14:27:57+08:00"
 draft = false
 tags = ["hugo", "blog", "cheatsheet"]
-categories = ["Blog"]
+categories = ["Tool"]
 
 +++
 
