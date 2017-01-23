@@ -1,13 +1,11 @@
 +++
-title = "Enhancement of data security for JWT"
+title = "Enhancement of data security for JSON Web Token (JWT)"
 draft = false
 date = "2016-12-31T05:53:03+08:00"
 tags = ["security", "jwt"]
 categories = ["Software Engineering"]
 
 +++
-
-# Enhancement of data security for JSON Web Token (JWT) 
 
 Given the nature of HTTP is stateless, full fetch web application would normally implement a session mechanism that allows the consistency and security of user activities. These information will be stored inside backend database and browser cookies. For a lightweight Rest API server, JWT provides a standard way to communicate between endpoints, everything you need is an encoded string of a few JSON objects. JWT can perform some certain tasks:
  * Encode data in URL friendly format

@@ -7,8 +7,6 @@ categories = ["Software Engineering"]
 
 +++
 
-# Graphy.js
-
 ### Introduction
 
 Graphy.js is a web & mobile friendly Javascript library to draw 2D graph on browsers. The main drawing technology is based on HTML5 canvas. Developed by 

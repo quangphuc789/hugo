@@ -7,8 +7,6 @@ categories = ["Tool"]
 
 +++
 
-# Hugo Cheat Sheet
-
 ![Example image](https://gohugo.io/img/hugo-logo.png)
 
 Blogging in Hugo is a nice experience. Even though it is not as convenient as ready to use platforms such as Wordpress, Tumblr or Medium since writer needs to have some certain understanding of programming and markdown editing. However, I like Hugo pretty much as I love programming and writing. Instead of rely on someone to prepare the blog, figuring out how things work is an interesting process too.
