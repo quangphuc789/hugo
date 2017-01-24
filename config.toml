@@ -33,9 +33,9 @@ defaultContentLanguage = "en-us"
 [author]
   name = "Timothy Quang Phuc Nguyen"
   bio = "<i>Programmer. Musician. Traveller.</i><br><br>\
-  Software engineer by training. Passionate about education, to enable kids to think & build confidence themselves.<br><br>\
+  Software engineer by training. Passionate about education, to enable kids to think & build confidence themselves.<br>\
   On the side, I do backpack travelling, composing music & blogging about life.<br><br>\
-  Reachable @ quangphuc789[at]gmail[dot]com"
+  quangphuc789[at]gmail.com"
   # job = "Software Engineer"
   # location = "Singapore"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
