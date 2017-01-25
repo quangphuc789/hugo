@@ -12,9 +12,9 @@
 # For developpers, if you modify this theme, put your images in `source/images` folder and
 # use grunt task `build` to synchronize assets
 
-baseurl = "https://quangphuc789.github.io/tech/"
+baseurl = "https://quangphuc789.github.io/blog/"
 languageCode = "en-us"
-title = "Timothy's Home"
+title = "Timothy Quang Phuc Nguyen"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "quangphuc789"
 googleAnalytics = "UA-89612853-1"
@@ -32,9 +32,9 @@ defaultContentLanguage = "en-us"
 
 [author]
   name = "Timothy Quang Phuc Nguyen"
-  bio = "<i>Programmer. Musician. Traveller.</i><br><br>\
-  Software engineer by training. Passionate about education, to enable kids to think & build confidence themselves.<br>\
-  On the side, I do backpack travelling, composing music & blogging about life.<br><br>\
+  bio = "<i>Life Traveller.</i><br><br>\
+  Programming as profession. Passionate about STEM education, to enable young learners to think & build confidence themselves.<br>\
+  On the side, I hack stuff for fun, backpack travel, make music & blog about various stuff.<br><br>\
   quangphuc789[at]gmail.com"
   # job = "Software Engineer"
   # location = "Singapore"
@@ -44,9 +44,9 @@ defaultContentLanguage = "en-us"
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
   picture = "https://dl.dropboxusercontent.com/s/4ei2dykby6uvi4i/qp.jpg?dl=0"
   # Your Twitter username without the @. E.g : thibaudlepretre
-  twitter = "thibaudlepretre"
+  # twitter = "quangphuc789"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
-  # googlePlus = "+ThibaudLepretre"
+  # googlePlus = "+quangphuc789"
 
 # Menu Configuration
 [[menu.main]]
