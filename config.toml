@@ -35,7 +35,7 @@ defaultContentLanguage = "en-us"
   bio = "<i>Life Traveller.</i><br><br>\
   Programming as profession. Passionate about STEM education, to enable young learners to think & build confidence themselves.<br>\
   On the side, I hack stuff for fun, backpack travel, make music & blog about various stuff.<br><br>\
-  quangphuc789[at]gmail.com"
+  <i>quangphuc789[at]gmail.com</i>"
   # job = "Software Engineer"
   # location = "Singapore"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
@@ -89,7 +89,7 @@ defaultContentLanguage = "en-us"
 [[menu.links]]
   weight = 1
   identifier = "youtube"
-  name = "Music Studio"
+  name = "Studio"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-youtube\"></i>"
   url = "https://www.youtube.com/channel/UCDujncETm-8rhhHOXkGomNg"
 
