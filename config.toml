@@ -32,10 +32,10 @@ defaultContentLanguage = "en-us"
 
 [author]
   name = "Timothy Quang Phuc Nguyen"
-  bio = "<i>Life Traveller.</i><br><br>\
-  Programming as profession. Passionate about STEM education, to enable young learners to think & build confidence themselves.<br>\
-  On the side, I hack stuff for fun, backpack travel, make music & blog about various stuff.<br><br>\
-  <i>quangphuc789[at]gmail.com</i>"
+  bio = "This blog is about engineering & technology in general. My space to plant & grow thoughts about STEM education for young learners.<br>\
+  Besides, I write about music, travelling & various life aspects.<br><br>\
+  <i>quangphuc789[at]gmail.com</i><br>\
+  <a href='http://quangphuc789.com'>quangphuc789.com</a>"
   # job = "Software Engineer"
   # location = "Singapore"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
