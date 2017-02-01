@@ -17,7 +17,7 @@ languageCode = "en-us"
 title = "Timothy Quang Phuc Nguyen"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "quangphuc789"
-googleAnalytics = "UA-89612853-1"
+# googleAnalytics = "UA-89612853-1"
 paginate = 7
 canonifyurls = true
 defaultContentLanguage = "en-us"
@@ -32,10 +32,9 @@ defaultContentLanguage = "en-us"
 
 [author]
   name = "Timothy Quang Phuc Nguyen"
-  bio = "This blog is about engineering & technology in general. My space to plant & grow thoughts about STEM education for young learners.<br>\
+  bio = "I write about engineering & tech. My space to plant thoughts on STEM education for young learners.<br>\
   Besides, I write about music, travelling & various life aspects.<br><br>\
   <i>quangphuc789[at]gmail.com</i><br>\
-  <a href='http://quangphuc789.com'>quangphuc789.com</a>"
   # job = "Software Engineer"
   # location = "Singapore"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
