@@ -32,9 +32,9 @@ defaultContentLanguage = "en-us"
 
 [author]
   name = "Timothy Quang Phuc Nguyen"
-  bio = "I write about engineering & tech. My space to plant thoughts on STEM education for young learners.<br>\
-  Besides, I write about music, travelling & various life aspects.<br><br>\
-  <i>quangphuc789[at]gmail.com</i><br>\
+  bio = "This blog is about programming & tech. My space to plant thoughts on STEM education for young learners.<br>\
+  Besides, I also blog about music, travelling & various life aspects.<br><br>\
+  <i>quangphuc789[at]gmail.com</i><br>"
   # job = "Software Engineer"
   # location = "Singapore"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
@@ -91,6 +91,12 @@ defaultContentLanguage = "en-us"
   name = "Studio"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-youtube\"></i>"
   url = "https://www.youtube.com/channel/UCDujncETm-8rhhHOXkGomNg"
+[[menu.links]]
+  weight = 2
+  identifier = "site"
+  name = "Site"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-user\"></i>"
+  url = "http://www.quangphuc789.com"
 
 #[[menu.misc]]
 #  weight = 0
