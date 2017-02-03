@@ -3,7 +3,7 @@ title = "Git Workflow For Small Teams & Usage Cheatsheet"
 draft = false
 date = "2016-04-03T19:17:24+08:00"
 tags = ["git", "workflow", "cheatsheet"]
-categories = ["Software Engineering"]
+categories = ["Productivity"]
 
 +++
 

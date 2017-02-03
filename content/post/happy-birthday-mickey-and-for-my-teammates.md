@@ -1,7 +1,9 @@
 +++
 date = "2016-07-18T23:10:54+08:00"
-title = "Happy birthday Mickey. And for my teammates."
-draft = true
+title = "For Mickey. And For My Teammates."
+draft = false
+tags = ["muzikator", "edtech"]
+categories = ["Startup"]
 
 +++
 

@@ -32,7 +32,7 @@ defaultContentLanguage = "en-us"
 
 [author]
   name = "Timothy Quang Phuc Nguyen"
-  bio = "This blog is about programming & tech. My space to plant thoughts on STEM education for young learners.<br>\
+  bio = "My space to plant thoughts on tech, startup & STEM education for young learners.<br>\
   Besides, I also blog about music, travelling & various life aspects.<br><br>\
   <i>quangphuc789[at]gmail.com</i><br>"
   # job = "Software Engineer"
@@ -50,8 +50,8 @@ defaultContentLanguage = "en-us"
 # Menu Configuration
 [[menu.main]]
   weight = 0
-  identifier = "home"
-  name = "Home"
+  identifier = "main"
+  name = "Main"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
   url = "/"
 [[menu.main]]
@@ -72,12 +72,12 @@ defaultContentLanguage = "en-us"
   name = "Archives"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"
   url = "/archives"
-[[menu.main]]
-  weight = 4
-  identifier = "about"
-  name = "About Me"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
-  url = "/#about"
+#[[menu.main]]
+#  weight = 4
+#  identifier = "about"
+#  name = "About Me"
+#  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
+#  url = "/#about"
 
 [[menu.links]]
   weight = 0
@@ -122,7 +122,7 @@ defaultContentLanguage = "en-us"
   # If false it will flat categories.
   hierarchicalCategories = true
 
-  description = "Timothy's Home"
+  description = "Timothy's Blog"
 
   # Customization
   # Define the behavior of the sidebar
