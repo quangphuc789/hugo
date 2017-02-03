@@ -1,6 +1,6 @@
 +++
 date = "2016-10-10T01:36:22+08:00"
-title = "My open source library graphy.js"
+title = "Graphy.js"
 draft = false
 tags = ["javascript", "canvas", "graphy.js", "opensource"]
 categories = ["Software Engineering"]
