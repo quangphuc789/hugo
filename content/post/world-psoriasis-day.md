@@ -9,7 +9,7 @@ categories = ["Life"]
 
 World Psoriasis Day.
 
-Just another day of my very own journey with this tiring disease. Remembered every moment I had as a human being, with all the joy and pain. This day reminds me of so many things I have been taking for granted.
+Just another day of my very own journey. Remembered every moment I had as a human being, with all the joy and pain. This day reminds me of so many things I have been taking for granted.
 
 Started to be a very small part. On my way to become someone that steps out of this hiding shell, raises awareness and gives advocacy to his fellas. Thank you Lord for everything that comes, plays a part and shapes our life.
 
