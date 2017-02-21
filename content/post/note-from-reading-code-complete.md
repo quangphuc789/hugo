@@ -1,7 +1,7 @@
 +++
 title = "Notes From Reading 'Code Complete'"
 draft = false
-date = "2016-3-24T05:53:03+08:00"
+date = "2016-03-24T05:53:03+08:00"
 tags = ["code-complete", "reading"]
 categories = ["Software Engineering"]
 
