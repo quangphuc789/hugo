@@ -32,8 +32,8 @@ defaultContentLanguage = "en-us"
 
 [author]
   name = "Timothy Quang Phuc Nguyen"
-  bio = "Rewinding my thoughts and memories<br>\
-  I blog about tech, education and various life aspects.<br>\
+  bio = "Rewinding my thoughts and memories.<br>\
+  About tech, education and various life aspects.<br>\
   <i>quangphuc789[at]gmail.com</i><br>"
   # job = "Software Engineer"
   # location = "Singapore"
