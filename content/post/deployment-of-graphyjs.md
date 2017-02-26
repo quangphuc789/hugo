@@ -7,7 +7,7 @@ categories = ["Software Engineering"]
 
 +++
 
-I have deliver the first version of graphy.js.
+I have delivered the first version of graphy.js.
 
 Check it out here: [Graphy.js Homepage](http://www.quangphuc789.com/graphy.js/)
 
