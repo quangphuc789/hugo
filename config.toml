@@ -8,7 +8,7 @@
 # For developpers, if you modify this theme, put your images in `source/images` folder and
 # use grunt task `build` to synchronize assets
 
-baseurl = "http://quangphuc789.github.io/blog/"
+baseurl = "https://quangphuc789.github.io/blog/"
 languageCode = "en-us"
 title = "Timothy Quang Phuc Nguyen"
 theme = "hugo-tranquilpeak-theme"
