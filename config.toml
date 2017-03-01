@@ -98,7 +98,7 @@ defaultContentLanguage = "en-us"
   identifier = "site"
   name = "Homepage"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-user\"></i>"
-  url = "http://www.quangphuc789.com"
+  url = "https://quangphuc789.github.io"
 
 #[[menu.misc]]
 #  weight = 0
