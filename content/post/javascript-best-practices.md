@@ -111,3 +111,8 @@ switch (new Date().getDay()) {
         day = "Unknown";
 }
 ```
+
+
+*References*
+
+[W3Schools](https://www.w3schools.com/js/js_best_practices.asp) | [DevBridge](https://www.devbridge.com/articles/javascript-best-practices/) | [Clean Code Javascript](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
