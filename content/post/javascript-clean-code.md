@@ -1,6 +1,6 @@
 +++
 date = "2017-02-28T09:15:12+08:00"
-title = "Javascript - "Clean Code", Robert C. Martin"
+title = "Javascript - Clean Code, Robert C. Martin"
 draft = false
 tags = ['javascript', 'best-practices']
 categories = ["Software Engineering"]
