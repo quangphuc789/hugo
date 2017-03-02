@@ -7,39 +7,50 @@ categories = ["Software Engineering"]
 
 +++
 
+All these practices are within my personal knowledge & experience, with references at the bottom of the page.
+
 ![image](https://i.stack.imgur.com/Mmww2.png)
 
-*Avoid Global Variables*
+***1. Don't mess with === and ==***
 
-Minimize the use of global variables.
+The **==** comparison operator always converts (to matching types) before comparison. Similar concept in PHP programming. It is a loose comparison. Don't use it unless you know what it does. Seasoned Javascript developers do feel very 'itchy' if they see the usage of '==' for no good reason.
 
-This includes all data types, objects, and functions.
+The **===** compares both values and type. This is a strict comparison, like in other strong type language, such as Java or C++.
 
-Global variables and functions can be overwritten by other scripts.
+Some examples:
 
-Use local variables instead, and learn how to use closures.
+```
+0 == "";        // true
+1 == "1";       // true
+1 == true;      // true
 
-*Always Declare Local Variables*
+0 === "";       // false
+1 === "1";      // false
+1 === true;     // false
+```
 
-All variables used in a function should be declared as local variables.
+***2. Don't forget to initialise***
 
-Local variables must be declared with the var keyword, otherwise they will become global variables.
+When writing a function, in other languages, developers can easily assign default values to the parameters within the function definition itself. This greatly reduces the chance of crashing the program due undefined data. For example, in PHP:
 
-`Strict mode` does not allow undeclared variables.
+```
+function getSomeInfo($docID, $reference = 2) {
+    // In this function, only $docID is needed
+    $document = Document::model()->getDocFromId($docID, $reference);
+}
+```
 
-*Declarations on Top*
+In Javascript, there is no obvious way, developers are to check themselves. But this should not stop us from building a good habit of initialising values.
 
-It is a good coding practice to put all declarations at the top of each script or function.
+```
+function getSomeInfo(docId, reference) {
+    if (reference === undefined) {
+        reference = 0;
+    }
+}
+```
 
-This will:
-
-Give cleaner code
-
-Provide a single place to look for local variables
-
-Make it easier to avoid unwanted (implied) global variables
-
-Reduce the possibility of unwanted re-declarations
+Always declare variables first, and on top of the function, tell clearly what they are doing. Then initialise them.
 
 ```
 // Declare at the beginning
@@ -55,12 +66,48 @@ discount = 0.10;
 fullPrice = price * 100 / discount;
 ```
 
-This also goes for loop variables:
+***3. Use English, pronounceable, and meaningful identity names***
+
+Except the loop iterator indexes.
 
 ```
-// Declare at the beginning
-var i;
+var xxyyzz = '15';          // Bad
+var taklabukab3 = 4         // Bad
+var thisIsAnotherVar = 9    // Bad
 
-// Use later
-for (i = 0; i < 5; i++) {
+var todayDate = new Date(); // Good
+var employeeSalary = 500;   // Good
+var studentNameLists = [];  // Good
+```
+
+***4. End Your Switches with Defaults. And use Breaks***
+
+End the switch with default keyword, and know how to use or not to use breaks.
+
+```
+switch (new Date().getDay()) {
+    case 0:
+        day = "Sunday";
+        break;
+    case 1:
+        day = "Monday";
+        break;
+    case 2:
+        day = "Tuesday";
+        break;
+    case 3:
+        day = "Wednesday";
+        break;
+    case 4:
+        day = "Thursday";
+        break;
+    case 5:
+        day = "Friday";
+        break;
+    case 6:
+        day = "Saturday";
+        break;
+    default:
+        day = "Unknown";
+}
 ```
