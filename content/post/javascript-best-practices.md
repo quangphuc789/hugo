@@ -7,6 +7,8 @@ categories = ["Software Engineering"]
 
 +++
 
+![image](https://i.stack.imgur.com/Mmww2.png)
+
 *Avoid Global Variables*
 
 Minimize the use of global variables.
