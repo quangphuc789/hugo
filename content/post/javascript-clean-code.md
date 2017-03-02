@@ -7,9 +7,10 @@ categories = ["Software Engineering"]
 
 +++
 
-I am contributing to an open source project, to summarise the excellent book `Clean Code` of Robert Cecil Martin, targeted *Javascript* developers. This is the cooperated version for Vietnamese readers. The article renders the core concepts of best practices for Javascript development. Must read for all programmers alike :)
+I am contributing to an open source project, with (credits to) [@hienvd](https://github.com/hienvd) and [@tiennv91](https://github.com/tiennv91) to summarise the excellent book `Clean Code` of Robert Cecil Martin, targeted **Javascript** developers. This is the cooperated version for Vietnamese readers. The article renders the core concepts and patterns of best practices for Javascript development. Must read for all programmers alike :)
 
 [My forked repo](https://github.com/quangphuc789/clean-code-javascript) 
+
 [Original repo](https://github.com/ryanmcdermott/clean-code-javascript) 
 
 ---
