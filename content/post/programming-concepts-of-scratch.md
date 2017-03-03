@@ -4,6 +4,8 @@ draft = false
 date = "2017-01-08T16:58:30+08:00"
 tags = ["scratch", "education"]
 categories = ["Education"]
+thumbnailImage = "https://s-media-cache-ak0.pinimg.com/originals/3e/ed/22/3eed221098d706a7a8564754ca2a1627.jpg"
+thumbnailImagePosition = "right"
 
 +++
 

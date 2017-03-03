@@ -4,6 +4,8 @@ title = "Deployment Of Graphy.js"
 draft = false
 tags = ['graphy.js']
 categories = ["Software Engineering"]
+thumbnailImage = "https://quangphuc789.github.io/graphy.js/src/landing-page/img/graph.jpg"
+thumbnailImagePosition = "right"
 
 +++
 

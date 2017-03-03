@@ -4,6 +4,8 @@ title = "Javascript - Clean Code, Robert C. Martin"
 draft = false
 tags = ['javascript', 'best-practices']
 categories = ["Software Engineering"]
+thumbnailImage = "http://www.osnews.com/images/comics/wtfm.jpg"
+thumbnailImagePosition = "top"
 
 +++
 
