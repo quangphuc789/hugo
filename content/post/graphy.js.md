@@ -4,6 +4,8 @@ title = "Graphy.js"
 draft = false
 tags = ["javascript", "canvas", "graphy.js", "opensource"]
 categories = ["Software Engineering"]
+thumbnailImage = "http://www.algebrahelp.com/worksheets/cache/graph_619_q.png"
+thumbnailImagePosition = "right"
 
 +++
 
