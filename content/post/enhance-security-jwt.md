@@ -4,6 +4,8 @@ draft = false
 date = "2016-12-31T05:53:03+08:00"
 tags = ["security", "jwt"]
 categories = ["Software Engineering"]
+thumbnailImage = "https://jwt.io/assets/logo.svg"
+thumbnailImagePosition = "left"
 
 +++
 
