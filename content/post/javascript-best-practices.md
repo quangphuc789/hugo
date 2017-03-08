@@ -5,7 +5,7 @@ draft = false
 tags = ['javascript', 'best-practices']
 categories = ["Software Engineering"]
 thumbnailImage = "https://i.stack.imgur.com/Mmww2.png"
-thumbnailImagePosition = "left"
+thumbnailImagePosition = "right"
 
 +++
 
