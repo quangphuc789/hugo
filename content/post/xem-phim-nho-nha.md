@@ -4,6 +4,8 @@ title = "Xem Phim. Nhớ Nhà."
 draft = false
 tags = []
 categories = ["Life"]
+thumbnailImage = "http://vtv1.vcmedia.vn/Uploaded/ngoctuyet/2014_03_12/V%C4%90VK_vtvonline_120314.jpg"
+thumbnailImagePosition = "right"
 
 +++
 
