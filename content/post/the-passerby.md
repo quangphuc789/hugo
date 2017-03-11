@@ -4,6 +4,8 @@ title = "The Passerby"
 draft = false
 tags = []
 categories = ["Life"]
+thumbnailImage = "http://img06.deviantart.net/ae15/i/2012/306/7/9/a_passerby_by_mcstalins-d5j49kj.jpg"
+thumbnailImagePosition = "right"
 
 +++
 

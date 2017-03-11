@@ -4,6 +4,8 @@ title = "Random Thought"
 draft = false
 tags = []
 categories = ["Life"]
+thumbnailImage = "http://www.reemachadha.me/wp-content/uploads/2012/09/purple-butterfly.jpg"
+thumbnailImagePosition = "right"
 
 +++
 

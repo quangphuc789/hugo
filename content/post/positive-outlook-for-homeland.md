@@ -4,6 +4,8 @@ title = "Positive Outlook On Vietnam Tech Scene"
 draft = false
 tags = []
 categories = ["Startup"]
+thumbnailImage = "http://younginnovator.eu/wp-content/uploads/2014/11/A_startup.jpg"
+thumbnailImagePosition = "right"
 
 +++
 

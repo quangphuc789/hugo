@@ -4,6 +4,8 @@ title = "Reading Uncle Cho's Note"
 draft = false
 tags = []
 categories = ["Life"]
+thumbnailImage = "https://rebeccawhenimposh.files.wordpress.com/2014/10/diary.jpg"
+thumbnailImagePosition = "right"
 
 +++
 
