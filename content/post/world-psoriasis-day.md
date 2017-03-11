@@ -4,6 +4,8 @@ title = "World Psoriasis Day"
 draft = false
 tags = ['psoriasis', 'gdvn']
 categories = ["Life"]
+thumbnailImage = "http://www.bradleyrx.com/wp-content/uploads/2017/02/iStock_000054338820_Small.jpg"
+thumbnailImagePosition = "right"
 
 +++
 
