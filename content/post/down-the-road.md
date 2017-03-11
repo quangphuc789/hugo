@@ -4,6 +4,8 @@ title = "Down The Road"
 draft = false
 tags = []
 categories = ["Life"]
+thumbnailImage = "http://rvtravel.com/wp-content/uploads/2016/03/long-road.jpg"
+thumbnailImagePosition = "right"
 
 +++
 
