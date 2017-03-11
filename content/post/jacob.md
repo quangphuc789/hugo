@@ -4,6 +4,8 @@ title = "Jacob"
 draft = false
 tags = []
 categories = ["Life"]
+thumbnailImage = "http://pad3.whstatic.com/images/thumb/9/97/Practice-Compassion-Meditation-Step-7.jpg/aid862413-728px-Practice-Compassion-Meditation-Step-7.jpg"
+thumbnailImagePosition = "right"
 
 +++
 

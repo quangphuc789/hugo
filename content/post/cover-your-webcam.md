@@ -4,6 +4,8 @@ title = "Cover Up Your Webcam"
 draft = false
 tags = []
 categories = ["Productivity"]
+thumbnailImage = "https://thewebcamcovers.com/wp-content/uploads/2014/10/Webcam-Cover-zoom-445x350.jpg"
+thumbnailImagePosition = "right"
 
 +++
 

@@ -4,6 +4,8 @@ title = "Giữa Người Với Người"
 draft = false
 tags = ["vietnam"]
 categories = ["Life"]
+thumbnailImage = "https://thecreatorwritings.files.wordpress.com/2014/02/12-9-compassion.jpg"
+thumbnailImagePosition = "right"
 
 +++
 
