@@ -4,6 +4,8 @@ title = "Write For My Friends"
 draft = false
 tags = []
 categories = ["Life"]
+thumbnailImage = "http://media.new.mensxp.com/media/content/2015/May/reasonswhyschoolfriendsarefriendsforlife1_1430990181.jpg"
+thumbnailImagePosition = "right"
 
 +++
 
