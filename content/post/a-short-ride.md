@@ -4,6 +4,8 @@ title = "A Short Ride"
 draft = false
 tags = ['volunteer', 'vgu']
 categories = ["Life"]
+thumbnailImage = "https://www.basel.com/extension/portal-basel/var/storage/images/media/bibliothek/basel-bilder/0_fotolia/taxi-basel/52668-1-ger-DE/Taxi-Basel_front_magnific.jpg"
+thumbnailImagePosition = "right"
 
 +++
 
