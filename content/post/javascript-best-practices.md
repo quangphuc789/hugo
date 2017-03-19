@@ -9,7 +9,7 @@ thumbnailImagePosition = "right"
 
 +++
 
-All these practices are within my personal knowledge & experience, with references at the bottom of the page.
+All these practices are within my personal experience & references at the bottom of the page.
 
 ![image](https://i.stack.imgur.com/Mmww2.png)
 
@@ -117,4 +117,4 @@ switch (new Date().getDay()) {
 
 *References*
 
-[W3Schools](https://www.w3schools.com/js/js_best_practices.asp) | [DevBridge](https://www.devbridge.com/articles/javascript-best-practices/) | [Clean Code Javascript](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+[W3Schools](https://www.w3schools.com/js/js_best_practices.asp) | [DevBridge](https://www.devbridge.com/articles/javascript-best-practices/) | [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
