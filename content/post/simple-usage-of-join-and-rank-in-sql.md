@@ -50,7 +50,7 @@ Next, the requirement asks us to return **all** the fields in `people` table. Th
       <something A> as sale_count,
       <something B> as sale_rank
 
-Here, I do not want to use `p.\*`, even though I could, because that is a bad practice. The reason is, no one guarantees the structure of `people` remains over the years. A good database architect/developer will practically add more columns if he needs to, and avoid removing/altering table columns. Therefore, p.`* will potentially add more columns in secret. Clearly there is no error reporting to the developer, until the end users figure it out. But that is bad.
+Here, I do not want to use `p.\*`, even though I could, because that is a bad practice. The reason is, no one guarantees the structure of `people` remains over the years. A good database architect/developer will practically add more columns if he needs to, and avoid removing/altering table columns. Therefore, p.\* will potentially add more columns in secret. Clearly there is no error reporting to the developer, until the end users figure it out. But that is bad.
 
 If specifying the columns in details, even when the columns are removed/altered, there will be error reported to the developer. And that will be easily fixed.
 
